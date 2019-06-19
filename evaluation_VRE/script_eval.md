@@ -38,7 +38,9 @@ Ensuite vous pourrez répondre à un questionnaire dans lequel il faudra noter c
 Rendez-vous sur [https://aginfra.d4science.org/group/foodsecurity](https://aginfra.d4science.org/group/foodsecurity).
 Si vous êtes déjà inscrit, connectez-vous directement et passez directement à l'étape suivante. Sinon, inscrivez-vous au VRE (par la méthode de votre choix)
 
-### Trouver des données
+### Accéder à des données
+
+![](./img/ecran_principal.png)
 
 #### L'espace de travail
 - Le workspace
@@ -117,8 +119,8 @@ La 3ème étape va utiliser l'algorithme DataMiner que vous avez créé.
 Cliquez sur le tool *test_data*.
 
 Reliez les 3 noeuds.
-Cliquez sur  puis *save* 
-Cliquez sur   puis *run*
+Cliquez sur ![](./img/galaxy_parameters_icone.png) puis *save* 
+Cliquez sur ![](./img/galaxy_parameters_icone.png)  puis *run*
 
 ### Publier ses données dans le catalogue
 
