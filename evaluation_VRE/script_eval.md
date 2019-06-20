@@ -57,7 +57,8 @@ Cliquez sur ![](./img/catalogue_icone.png).
 Le catalogue recense les ressources disponibles sur le VRE. Son utilisation sera expliquée dans une autre partie
 
 #### Refindit
-Allez dans Discovery/Refindit. Cherchez une publication (exemple : la publication sur PHIS : P. Neveu, A. Tireau, N. Hilgert, V. Nègre, J. Mineau-Cesari, N. Brichet, R. Chapuis, I. Sanchez, C. Pommier, B. Charnomordic, F. Tardieu, L. Cabrera-Bosquet, Dealing with multi-source and multi-scale information in plant phenomics: the ontology-driven Phenotyping Hybrid Information System, New Phytol., 221 (2019) 588-601. doi: 10.1111/nph.15385)
+Allez dans Discovery/Refindit. Cherchez une publication 
+Vous pouvez par exemple rechercher la publication sur PHIS dont voici la référence {P. Neveu, A. Tireau, N. Hilgert, V. Nègre, J. Mineau-Cesari, N. Brichet, R. Chapuis, I. Sanchez, C. Pommier, B. Charnomordic, F. Tardieu, L. Cabrera-Bosquet, Dealing with multi-source and multi-scale information in plant phenomics: the ontology-driven Phenotyping Hybrid Information System, New Phytol., 221 (2019) 588-601. doi: 10.1111/nph.15385}
 
 #### Récupérer des données depuis les Web Services BrAPI
 BRAPI (pour Plant Breeding API) est une spécification d'un standard d'API pour les données en phénotypage et génotypage. Toutes les API respectant ce standard pourront donc être appelées de la même manière, ce qui facilite l'accès et l'échange des données.
@@ -189,7 +190,8 @@ Cliquez sur ![](./img/galaxy_parameters_icone.png)  puis *run* pour le lancer.
 ### Publier ses données dans le catalogue
 
 #### Publier des données dans le catalogue  
-Importez un fichier dans votre workspace
+Importez un fichier dans votre workspace.  
+
 Cliquez sur *Catalogue*
 ![](./img/catalogue.png)
 
