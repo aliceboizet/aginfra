@@ -22,7 +22,7 @@ Le but du projet est d'alimenter ces VREs avec différents composants répondant
 
 Le Food Security VRE est porté par la plateforme D4Science, développée par le CNR.
 [https://aginfra.d4science.org/group/foodsecurity](https://aginfra.d4science.org/group/foodsecurity)
-Pour la communauté "Food Security", le cas d'utilisation autour du phénotypage de plante haut-débit qui produit de gros volumes de données variées.
+Pour la communauté "Food Security", le cas d'utilisation choisi est le phénotypage de plante haut-débit qui produit de gros volumes de données variées.
 
 # Evaluation des fonctionnalités
 
@@ -45,7 +45,7 @@ Si vous êtes déjà inscrit, connectez-vous directement et passez directement �
 #### L'espace de travail
 - Le workspace
 Cliquez sur ![](./img/workspace_icone.png).
-Dans le répertoire VRE Folders, vous accédez pour à l'espace commun de chaque VRE auquel vous êtes inscrit. Les fichiers que vous déposerez dans VRE Folders/Food Security VRE seront donc accessibles aux autres membres du VRE.
+Dans le répertoire VRE Folders, vous accédez à l'espace commun de chaque VRE auquel vous êtes inscrit. Les fichiers que vous déposerez dans VRE Folders/Food Security VRE seront donc accessibles aux autres membres du VRE.
 Les répertoires et fichiers créés à la racine du workspace sont privés.
 
 - La messagerie
