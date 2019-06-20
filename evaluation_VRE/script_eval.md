@@ -1,3 +1,10 @@
+# Programme de l'atelier
+###  1. Présentation du VRE et du projet AgINFRA+
+###  2. Présentation des fonctionnalités
+###  3. Test et Evaluation des fonctionnalités
+###  4. Retours 
+###  5. Focus sur Galaxy  
+
 # Présentation du VRE Food Security
 
 ## Qu'est ce qu'un VRE ?
