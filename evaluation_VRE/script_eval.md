@@ -32,7 +32,7 @@ Le but de l'exercice est d'évaluer si un VRE et plus particulièrement le VRE "
 Après la présentation des différentes fonctionnalités du VRE, vous allez être amenés à suivre un scénario utilisateur permettant de tester chacune de ces fonctionnalités.
 Ensuite vous pourrez répondre à un questionnaire dans lequel il faudra noter chaque fonctionnalité suivant différents indicateurs.
 
-##Scénario utilisateur
+## Scénario utilisateur
 
 ### Inscription/connexion au VRE
 Rendez-vous sur [https://aginfra.d4science.org/group/foodsecurity](https://aginfra.d4science.org/group/foodsecurity).
