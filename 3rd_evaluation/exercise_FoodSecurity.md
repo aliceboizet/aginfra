@@ -90,7 +90,7 @@ But you are very lucky, another VRE member has already done a similar script and
 Fill the parameters as bellow: 
 
 <img src="./img/DM_param1.png" width="450" />
-<img src="./img/DM_param1.png" width="450" />
+<img src="./img/DM_param2.png" width="450" />
 
 *Parameters description* : 
 If removeOutliers=0 the outliers will be kept and identifiable.
